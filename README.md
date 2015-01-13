@@ -1,4 +1,4 @@
-# Blank Phaser Project with Apache Cordova
+# Blank Phaser Project
 
 See [LICENSE.md]() for license terms and conditions.
 
@@ -8,8 +8,6 @@ Intel(R) XDK
 -------------------------------------------
 This template is part of the Intel(R) XDK. 
 Download the Intel XDK at http://software.intel.com/en-us/html5.
-
-Visit https://github.com/gomobile/template-a-blank-cordova for the details about Intel XDK and Apache Cordova project.
 
 Application Files
 -----------------
@@ -24,5 +22,4 @@ Application Files
 * lib/
 * src/Game.js
 * src/app.js
-* src/cordova-init.js
 * index.html
