@@ -8,7 +8,7 @@
    ],
    "articleUrl" : null,
    "projectTypeName" : "com.intel.xdk.projecttype.webapp",
-   "repoName" : "template-phaser-landscape",
+   "repoName" : "template-phaser-landscape-webapp",
    "appName" : "",
    "keywords" : [
       "Blank Project",
