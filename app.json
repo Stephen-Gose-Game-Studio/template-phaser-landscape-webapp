@@ -22,5 +22,7 @@
    "relName" : "",
    "description" : "Use this template to start with a blank landscape Game from Phaser",
    "tooltip" : "A blank template for creating games from Phaser",
+   "section" : "templates",
+   "group" : "games",
    "visible" : true
 }
