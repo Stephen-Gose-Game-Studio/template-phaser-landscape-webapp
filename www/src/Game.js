@@ -1,3 +1,4 @@
+/* jshint browser:true */
 // create BasicGame Class
 BasicGame = {
 

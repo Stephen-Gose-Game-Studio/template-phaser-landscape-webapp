@@ -1,5 +1,5 @@
 (function () {
-
+    /* globals Phaser:false, BasicGame:false */
     //  Create your Phaser game and inject it into the game div.
     //  We did it in a window.onload event, but you can do it anywhere (requireJS load, anonymous function, jQuery dom ready, - whatever floats your boat)
     //  We're using a game size of 640 x 480 here, but you can use whatever you feel makes sense for your game of course.
