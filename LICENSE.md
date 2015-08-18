@@ -1,6 +1,6 @@
 # Intel® HTML5 Samples License Terms and Conditions
 
-Copyright © 2012-2014, Intel Corporation. All rights reserved.
+Copyright © 2012-2015, Intel Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -32,4 +32,4 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # Phaser License
 * Name: Phaser
 * Source: http://phaser.io/
-* License: https://github.com/photonstorm/phaser/blob/v2.1.3/license.txt
+* License: https://github.com/photonstorm/phaser/blob/v2.4.2/license.txt
