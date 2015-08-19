@@ -15,7 +15,8 @@
       "Game"
    ],
    "gameEngine" : {
-      "name" : "phaser"
+      "name" : "phaser",
+      "version" : "2.4.2"
    },
    "title" : "Phaser Game Landscape Template",
    "appPreview" : false,
