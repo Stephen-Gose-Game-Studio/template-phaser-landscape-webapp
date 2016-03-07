@@ -114,27 +114,29 @@
                 "runtime_": "W3C on Cordova",
                 "name_": "iOS",
                 "preferences_": {
-                  "ios-target": "8.0",
-                  "ios-configuration": "adhoc",
-                  "Orientation": "landscape"
+                    "ios-target": "8.0",
+                    "ios-configuration": "adhoc",
+                    "Orientation": "landscape"
                 },
                 "isActive_": true,
                 "appName_": "blank-phaser-game-webapp",
                 "appID_": "xdk.intel.blank.phaser.game.template",
                 "appAccess_": {
-                  "mode": "legacy",
-                  "network": ["*"],
-                  "intents": [
-                    "http://*/*",
-                    "https://*/*",
-                    "tel:*",
-                    "sms:*",
-                    "mailto:*",
-                    "geo:*",
-                    "itms:*",
-                    "itms-apps:*"
-                  ],
-                  "navigation": []
+                    "mode": "legacy",
+                    "network": [
+                        "*"
+                    ],
+                    "intents": [
+                        "http://*/*",
+                        "https://*/*",
+                        "tel:*",
+                        "sms:*",
+                        "mailto:*",
+                        "geo:*",
+                        "itms:*",
+                        "itms-apps:*"
+                    ],
+                    "navigation": []
                 },
                 "icons_": [],
                 "splashes_": [],
@@ -146,7 +148,7 @@
                 "appAuthor_": "Intel XDK",
                 "appVersion_": "0.0.1",
                 "appDescription_": "Use this template to start creating Phaser based mobile game web apps."
-              },
+            },
             "Windows8": {
                 "platform_": "windows8",
                 "runtime_": "W3C on Cordova",
